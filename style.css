@@ -1,0 +1,115 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+body {
+  color: #575F7D;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  font-weight: lighter;
+  line-height: 30px;
+  background-image:url(images/background.jpeg);
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 1700px
+}
+
+h1 {
+  color: #575F7D;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 30px
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: rgb(126, 206, 144);
+  font-size: 20px;
+  font-weight: 400
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #6B72E1;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+a {
+  cursor: pointer;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+div {
+  background-color: white;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 4px;
+  box-shadow: 0px 10px 30px;
+  opacity: 0.7
+}
+
+.fa-shuttle-van {
+  font-size: 50px;
+  color: rgb(253, 16, 21);
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 40px
+}
+
+a1 {
+  color: rgb(253, 16, 21);
+  font-size: 30px
+}
+
+.btn-blue {
+    background-color: #6B72E1;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 70%
+
+}
+
+
+.card-white {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%
+}
+
+.list-inline a {
+  background-color: rgba(0,0,0,0,2);
+}
+
+.list-inline {
+  display: inline-block;
+  padding: 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left:  0px
+}
